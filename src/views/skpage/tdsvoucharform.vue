@@ -38,7 +38,7 @@
       
  <div class="vx-row mb-3">
         <div class="vx-col sm:w-1/6 " >
-          <span> from date</span>
+          <span> from date  </span>
         </div>
             <!--Used for date picking -->
         <div class="vx-col sm:w-1/6 w-full">
@@ -56,7 +56,7 @@
 
       <div class="vx-row mb-3">
         <div class="vx-col sm:w-1/6 " >
-          <span>upto Date</span>
+          <span>UPTO DATE </span>
         </div>
         <div class="vx-col sm:w-1/5">
            <vs-input v-model="vno" size="small" style="width:100px; height:24px;" placeholder="" />
