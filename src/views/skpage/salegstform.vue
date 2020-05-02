@@ -19,8 +19,6 @@
               
         </td>
          
-       
-
 
       </tr>
      
@@ -145,7 +143,7 @@
           </td>
         </tr>
         <tr>
-          <td>Bill Cash</td>
+          <td>Bill CASH</td>
           <td>
              <select class="w-full selectp">
             <option value=""></option>
@@ -154,7 +152,7 @@
           </td>
         </tr>
         <tr>
-          <td>Mfg. Trd</td>
+          <td>Mfg. TDF</td>
           <td>
 
             <select class="w-full selectp">
