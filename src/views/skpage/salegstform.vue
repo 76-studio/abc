@@ -92,7 +92,7 @@
 		<div id="left">
       <table border="0" width="100%" cellspacing="5" class="tables">
         <tr>
-          <td>Cust. Name</td>
+          <td>CUSTOMER NAME</td>
           <td><vs-input class="w-full" size="small" v-model="input1" /></td>
         </tr>
         <tr>
