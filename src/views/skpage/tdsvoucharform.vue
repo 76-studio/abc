@@ -45,7 +45,7 @@
            <flat-pickr  v-model="date" size="small" style="width:100px; height:24px;"  placeholder="choose Date" />
         </div>
         <tr>
-          <td class="overlap">Calculation &nbsp;</td>
+          <td class="overlap">CALCULATION &nbsp;</td>
           <td>
           <vs-select v-model="city" class="w-full select-large">
           <vs-select-item :key="index" :value="item.value" :text="item.text" v-for="(item,index) in cityOptions" class="w-full" />
@@ -82,7 +82,7 @@
         
         <div class="vx-row mb-3">
         <div class="vx-col sm:w-1/6 " >
-          <span>Order by &nbsp; &nbsp; &nbsp;</span>
+          <span>ORDER &nbsp; &nbsp; &nbsp;</span>
         </div>
         <div class="vx-col sm:w-1/5">
            <vs-input v-model="vno" size="small" style="width:180px; height:24px;" placeholder="A/c name" />
@@ -91,6 +91,7 @@
         </div>
 
 <br/>
+
 
 
 
